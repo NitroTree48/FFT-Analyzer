@@ -14,8 +14,8 @@ In order to run FFT_Analyzer.py you will need to follow a few steps:
   8.  pip install matplotlib
   9.  pip install math
   10. Next, you will need to change the audio input and output for your computer from pc settings:
-  11. Output will be set to “CABLE input(VB-Audio Virtual Cable)
-  12. Input will be set to “CABLE output(VB-Audio Virtual Cable)
+  11. Output will be set to "CABLE input(VB-Audio Virtual Cable)"
+  12. Input will be set to "CABLE output(VB-Audio Virtual Cable)"
   13. Finally, you will need to change the audio input and output on Voice Meter Banana:
   14. Open Voice meter and let the sound engine start (ignore any error messages that pop up)
   15. Set “Hardware Input 1” by clicking on the 1 icon and choose CABLE output(VB-Audio Virtual Cable)
