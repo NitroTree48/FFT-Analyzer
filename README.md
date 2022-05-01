@@ -5,7 +5,7 @@ Python Program that utilizes the Numpy FFT library to identify individual freque
 In order to run FFT_Analyzer.py you will need to follow a few steps:
 
   1.  First, make sure you have python 3.7 installed on your computer
-  2.  Specifically between 3.7.3 - 3.7.9 (3.7.10 will not work with the libraries you will need) 
+      - Specifically between 3.7.3 - 3.7.9 (3.7.10 will not work with the libraries you will need) 
   3.  Install Virtual Audio Cable for free from this site: https://vb-audio.com/Cable/
   4.  Install Voice Meter Banana for free from this site: https://vb-audio.com/Voicemeeter/banana.htm
   5.  Open a terminal in the location you wish to save FFT_Analyzer.py and run the following commands:
