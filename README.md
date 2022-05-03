@@ -21,7 +21,5 @@ In order to run FFT_Analyzer.py you will need to follow a few steps:
       - Set “Hardware Input 1” by clicking on the 1 icon and choose CABLE output(VB-Audio Virtual Cable)
       - Set “Hardware Out” by clicking on the A1 icon and choose “WDM: *name of computer speakers*”
   7. Now open the same terminal as before and run “python FTT_Analyzer.py”
-  8. Play music from any online or offline source after seeing the words “connected” print in terminal
-  9. Completed Dance routine steps
-
-(if you do not see the printout “connected” then the computer has not successfully connected to the leader romba)
+  8. Play music from any online or offline source
+  9. Completed steps
